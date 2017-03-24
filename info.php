@@ -1,5 +1,15 @@
 <?php
+
+
+
+
+
+
 echo phpinfo();
+
+
+
+
 
 
 ?>
